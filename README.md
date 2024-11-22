@@ -1,29 +1,57 @@
-### Seja Bem-Vindo 👋
+# 👋 Olá, eu sou Nicolas!  
 
-➣ 👨‍💻 **Cursando** ADS - FATEC <br>
-➣ 💻 **Estudando** HTML e CSS<br>
-➣ 👷🏻‍♂️ **Operador** de Monitoração Jr
+Seja bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará um pouco sobre mim, meus projetos e minhas áreas de interesse.  
 
+---
 
-<div align="center">
-  <a href="https://github.com/NicolasMouraCosta">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NicolasMouraCosta&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMouraCosta&layout=compact&theme=tokyonight"/>
-</div>
-  
-  ##
-  
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</div>
-  
-  ##
-  
-<div align="center">  
-  <a href = "https://www.linkedin.com/in/nicolas-moura-costa-674903200/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nicolasmouracostamoura@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## 📖 Sobre mim  
 
+- 🎯 **Quem sou:** Um entusiasta de desenvolvimento e tecnologia.  
+- 📍 **De onde sou:** [CARAPÍCUIBA].  
+- ✝️ **Fé:** Cristão, guiado por princípios de amor e fé.  
+- 🔎 **Explorando:** Sempre em busca de novos aprendizados e desafios.  
+- 🎮 **Hobbies:** [ games, esportes, música].  
 
+---
+
+## 💻 Meus interesses  
+
+- 🚀 **Desenvolvimento:** Apaixonado por criar soluções com código e colaborar em projetos inovadores.  
+- 🌌 **Projetos criativos:** Sempre inspirado por ideias únicas e desafiadoras.  
+- 🤝 **Colaborações:** Aberto a trabalhar em projetos que impactem positivamente as pessoas.  
+
+---
+
+## 🛠️ Tecnologias e ferramentas que domino  
+
+Aqui estão as linguagens de programação e ferramentas que utilizo:  
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL (MySQL)" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Visual_Basic_Logo.svg" alt="VBA" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/BMC_Software_Logo.svg" alt="Control-M" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Veritas_Technologies_logo.svg" alt="Veritas" width="100" height="50" />
+</div>  
+
+---
+
+## 📊 Estatísticas  
+
+[![Minhas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 🌐 Onde me encontrar  
+
+- 💼 [Seu LinkedIn (https://br.linkedin.com/in/nicolas-moura-costa-674903200)  
+- ✉️ Email: [nicolaslikedinmoura@gmail.com]  
+
+---
+
+⭐️ **Obrigado por visitar!**  
+💡 *"Acredite em si mesmo e em seu potencial."*
