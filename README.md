@@ -7,10 +7,10 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará um pouco sobre
 ## 📖 Sobre mim  
 
 - 🎯 **Quem sou:** Um entusiasta de desenvolvimento e tecnologia.  
-- 📍 **De onde sou:** [CARAPÍCUIBA].  
+- 📍 **De onde sou:** Carapicuíba.  
 - ✝️ **Fé:** Cristão, guiado por princípios de amor e fé.  
 - 🔎 **Explorando:** Sempre em busca de novos aprendizados e desafios.  
-- 🎮 **Hobbies:** [ games, esportes, música].  
+- 🎮 **Hobbies:** Games, esportes, música.  
 
 ---
 
@@ -36,19 +36,24 @@ Aqui estão as linguagens de programação e ferramentas que utilizo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/BMC_Software_Logo.svg" alt="Control-M" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Veritas_Technologies_logo.svg" alt="Veritas" width="100" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
 </div>  
 
 ---
 
 ## 📊 Estatísticas  
 
+### ⚡ Estatísticas gerais  
 [![Minhas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+### 📈 Linguagens mais usadas  
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
 ## 🌐 Onde me encontrar  
 
-- 💼 [Seu LinkedIn (https://br.linkedin.com/in/nicolas-moura-costa-674903200)  
+- 💼 [Meu LinkedIn](https://br.linkedin.com/in/nicolas-moura-costa-674903200)  
 - ✉️ Email: [nicolaslikedinmoura@gmail.com]  
 
 ---
